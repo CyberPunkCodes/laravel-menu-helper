@@ -1,0 +1,15 @@
+.idea
+.vscode
+.php_cs
+.php_cs.cache
+.php-cs-fixer.cache
+.phpunit.result.cache
+vendor
+node_modules
+composer.lock
+phpunit.xml
+testbench.yaml
+_notes.md
+_bak_*
+*__bak__*
+*.bak
